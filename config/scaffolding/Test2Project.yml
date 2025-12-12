@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test2Project
+  gitServerName: sx_github
+  gitUrl: https://github.com/shoxgal
+  gitUsername: shoxgal
+  gitBranch: main
